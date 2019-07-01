@@ -1,0 +1,25 @@
+{
+  "name": "log-in-action",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/janeluck/log-in-action.git"
+  },
+  "keywords": [
+    "log"
+  ],
+  "author": "janeluck",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/janeluck/log-in-action/issues"
+  },
+  "homepage": "https://github.com/janeluck/log-in-action#readme",
+  "devDependencies": {
+    "log": "^6.0.0"
+  }
+}
